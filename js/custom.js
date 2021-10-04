@@ -120,6 +120,10 @@ $(function() {
             settings: {
                 slidesToShow: 1,
                 slidesToScroll: 1,
+                dots: false,
+                autoplay: true,
+                autoplaySpeed: 3000,
+                speed: 1500,
             }
         }, ]
     });

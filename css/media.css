@@ -728,9 +728,6 @@
         left: 50%;
         transform: translate(-50%, -50%) rotate(45deg);
     }
-    #test .slick-dots button {
-        display: none !important;
-    }
     /*testimonial part end*/
     /*pricing part start*/
     #pricing {
@@ -1033,9 +1030,6 @@
         top: 0;
         left: 50%;
         transform: translate(-50%, -50%) rotate(45deg);
-    }
-    #test .slick-dots button {
-        display: none !important;
     }
     /*testimonial part end*/
     /*pricing part start*/
